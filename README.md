@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eugene
+- 👋 Hi, I’m @Eugene a diligent security enthusiast.
 - 🌱 I am currently learning.
 - 👀 I’m interested in cybersecurity in field of penetration testing.
 - 🌱 I’m currently learning Python programming, Dart & Flutter programming, open source intelligence, web application security and junk hacking.
