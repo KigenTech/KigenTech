@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Eugene a diligent security enthusiast.
 - 🌱 I am currently learning.
 - 👀 I’m interested in cybersecurity advancing my skills in pentesting.
-- 🌱 I’m currently learning Python programming, Dart & Flutter programming, open source intelligence, web application security and junk hacking.
-- 💞️ I’m looking to collaborate on writing in making scripts.
+- 🌱 I’m currently learning Programming
  
 - ⚡ Fun fact: ...
 
