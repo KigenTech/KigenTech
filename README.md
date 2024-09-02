@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Eugene a diligent security enthusiast.
+- 👋 Hi, I’m @Eugene.
 - 🌱 I am currently learning.
-- 👀 I’m interested in cybersecurity advancing my skills in pentesting.
 - 🌱 I’m currently learning Programming
  
 - ⚡ Fun fact: ...
